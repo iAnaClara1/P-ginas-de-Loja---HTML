@@ -1,4 +1,4 @@
-# Paginas-de-Loja---HTML
+# Paginas-de-Loja--HTML
 
 ## Descrição do Projeto ✏️
 Este projeto faz parte do trabalho semestral para a disciplina de "Desenvolvimento Web 1" e envolve a criação de três páginas web distintas. O objetivo principal é utilizar as tecnologias HTML5, CSS3 e Bootstrap para desenvolver interfaces modernas, funcionais e responsivas, proporcionando uma experiência de usuário agradável e eficiente.
